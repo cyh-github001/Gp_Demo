@@ -1,54 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6732e216-f8fa-4601-b217-caa68e497db6" name="Default Changelist" comment="曹永宏提交啦啦啦">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dir/json.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/OneTest/Test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/OneTest/Test01.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/OneTest/Test02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/OneTest/Utils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Mysql/MysqlPro.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Mysql/MysqlTerEqtp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Mysql/MysqlTerNet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Mysql/MysqlTerop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Mysql/MysqlTeropSys.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/ProCityCt/proCity.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/LocaltionRpt.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/MediaAnalysis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/TerEqtp.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/TerNet.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/Terop.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/TeropSys.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/BusinessTag.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/HbaseSpark.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagAPP.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagDevice.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagKeyWord.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagLocation.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagsAd.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagsContext.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagsContext02.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagsContext03.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/APp2Jedis.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/AmapUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/DirEtl.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/HttpUtil.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/JDBCConnection.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/JedisConnectionPool.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/RptUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/SchemaUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/Tag.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/TagUtils.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/Utils2Type.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/test.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Demo.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
+    <list default="true" id="6732e216-f8fa-4601-b217-caa68e497db6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dir/app_dict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir/stopwords.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Scala/com/ETL/txt2parquet.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Scala/com/ETL/utils/txt2parquet.scala" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -66,17 +22,7 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -191,7 +137,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,33 +167,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="Scala" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="Scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="ETL" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dir" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3593023" />
@@ -401,7 +330,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566318653763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="曹永宏提交啦啦啦">
+      <created>1566972188131</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566972188131</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -413,7 +349,7 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25037822" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.25416037" />
       <window_info anchor="bottom" id="Tail" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.3295082" />
@@ -478,14 +414,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/Scala/com/ETL/Rept/TagsAd.scala" />
-    <entry file="jar://E:/Learning materials/22班/项目/项目day01/spark-assembly-1.6.0-hadoop2.6.0.jar!/org/apache/spark/sql/Row.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="9" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagAPP_Redis.scala" />
     <entry file="file://$PROJECT_DIR$/src/main/Scala/com/ETL/Tags/TagsContext_Redis.scala" />
     <entry file="jar://E:/MavenRepoistry/mavenRepoistry/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java">
@@ -847,36 +775,21 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scriptFile.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/JedisOffset.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/KafkaRedisOffset.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#28#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/JedisConnectionPool.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/JedisOffset.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/KafkaRedisOffset.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/Scala/com_real_time/Test/JedisConnectionPool.scala" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir/app_dict.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
